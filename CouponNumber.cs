@@ -14,6 +14,7 @@ namespace Day6
             Random random = new Random();
             int num1;
             int coupon;
+            
             for (int i = 1; i <= n; i++)
             {
                 num1 = random.Next(124, 3176);
