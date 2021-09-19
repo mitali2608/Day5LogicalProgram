@@ -17,6 +17,7 @@ namespace Day6
             watch.Stop();
             var time = watch.ElapsedMilliseconds;
             Console.WriteLine("Time Elapsed = " + time + "ms");
+            
         }
     }
 }
